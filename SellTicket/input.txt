@@ -1,0 +1,24 @@
+CREATECATEGORY category-1A 15x15
+CREATECATEGORY category-2A 20x20
+CREATECATEGORY category-1E 25x25
+CREATECATEGORY category-1G 19x19
+CREATECATEGORY category-1A 14x14
+SELLTICKET messi season category-1G N2-18
+SELLTICKET kadriye student category-1A M3 A2 C6-12
+SELLTICKET dogan season category-1A K9
+SELLTICKET arzu student category-1E C1
+SELLTICKET felipe full category-2A D6
+SELLTICKET nani full category-1E E3
+SELLTICKET ahmet full category-2A F12
+SELLTICKET anil student category-1E G1 K5
+SELLTICKET hami student category-2A E1 F11
+SELLTICKET drogba full category-2A A7 B3
+CANCELTICKET category-2A D6
+CANCELTICKET category-1E C1
+CANCELTICKET category-1E G1
+SHOWCATEGORY category-1E
+SHOWCATEGORY category-2A
+SHOWCATEGORY category-1G
+SHOWCATEGORY category-1A
+BALANCE category-1A
+BALANCE category-1G

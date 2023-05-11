@@ -1,0 +1,133 @@
+The category 'category-1A' having 225 seats has been created
+The category 'category-2A' having 400 seats has been created
+The category 'category-1E' having 625 seats has been created
+The category 'category-1G' having 361 seats has been created
+The category 'category-1A' having 196 seats has been created
+Success: messi has bought N2-18  at category-1G
+Success: kadriye has bought M3 A2 C6-12  at category-1A
+Success: dogan has bought K9  at category-1A
+Success: arzu has bought C1  at category-1E
+Success: felipe has bought D6  at category-2A
+Success: nani has bought E3  at category-1E
+Success: ahmet has bought F12  at category-2A
+Success: anil has bought G1 K5  at category-1E
+Success: hami has bought E1 F11  at category-2A
+Success: drogba has bought A7 B3  at category-2A
+Success: The seat D6 at category-2A has been canceled and now ready to sell again
+Success: The seat C1 at category-1E has been canceled and now ready to sell again
+Success: The seat G1 at category-1E has been canceled and now ready to sell again
+Printing category layout of category-1E
+
+Y X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+W X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+V X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+U X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+T X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+S X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+R X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+Q X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+P X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+O X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+N X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+M X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+L X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+K X  X  X  X  X  S  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+J X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+I X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+H X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+G X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+F X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+E X  X  X  F  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+D X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+C X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+B X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+A X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+  0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+category report of 'category-1E'
+-------------------------------
+Printing category layout of category-2A
+
+T X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+S X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+R X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+Q X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+P X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+O X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+N X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+M X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+L X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+K X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+J X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+I X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+H X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+G X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+F X  X  X  X  X  X  X  X  X  X  X  S  F  X  X  X  X  X  X  X  
+E X  S  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+D X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+C X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+B X  X  X  F  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+A X  X  X  X  X  X  X  F  X  X  X  X  X  X  X  X  X  X  X  X  
+  0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19
+category report of 'category-2A'
+-------------------------------
+Printing category layout of category-1G
+
+S X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+R X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+Q X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+P X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+O X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+N X  X  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  
+M X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+L X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+K X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+J X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+I X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+H X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+G X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+F X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+E X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+D X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+C X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+B X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+A X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+  0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18
+category report of 'category-1G'
+-------------------------------
+Printing category layout of category-1A
+
+O X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+N X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+M X  X  X  S  X  X  X  X  X  X  X  X  X  X  X  
+L X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+K X  X  X  X  X  X  X  X  X  T  X  X  X  X  X  
+J X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+I X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+H X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+G X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+F X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+E X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+D X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+C X  X  X  X  X  X  S  S  S  S  S  S  S  X  X  
+B X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+A X  X  S  X  X  X  X  X  X  X  X  X  X  X  X  
+N X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+M X  X  X  S  X  X  X  X  X  X  X  X  X  X  
+L X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+K X  X  X  X  X  X  X  X  X  T  X  X  X  X  
+J X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+I X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+H X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+G X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+F X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+E X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+D X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+C X  X  X  X  X  X  S  S  S  S  S  S  S  X  
+B X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+A X  X  S  X  X  X  X  X  X  X  X  X  X  X  
+  0  1  2  3  4  5  6  7  8  9 10 11 12 13
+category report of 'category-1A'
+-------------------------------
+Sum of students = 18, Sum of full pay = 0, Sum of season ticket = 2, and Revenues = 680 Dollars
+Sum of students = 0, Sum of full pay = 0, Sum of season ticket = 17, and Revenues = 4250 Dollars
